@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<tienda>
+  <reporte>
+    <nombres>Christian</nombres>
+    <apellidos>Atencio</apellidos>
+    <nomprod>borrador</nomprod>
+    <cantidad>3</cantidad>
+    <fecha>2020-10-11 00:00:00</fecha>
+    <precio>3</precio>
+  </reporte>
+</tienda>
