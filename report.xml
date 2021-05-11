@@ -1,5 +1,29 @@
-<?xml version="1.0"?>
+<?xml version=""?>
 <tienda>
+  <reporte>
+    <nombres>Marco</nombres>
+    <apellidos>Cueva</apellidos>
+    <nomprod>lapiz</nomprod>
+    <cantidad>2</cantidad>
+    <fecha>2020-10-10 00:00:01</fecha>
+    <precio>6</precio>
+  </reporte>
+  <reporte>
+    <nombres>Marco</nombres>
+    <apellidos>Cueva</apellidos>
+    <nomprod>hojas</nomprod>
+    <cantidad>2</cantidad>
+    <fecha>2020-06-12 22:10:10</fecha>
+    <precio>0.2</precio>
+  </reporte>
+  <reporte>
+    <nombres>Marco</nombres>
+    <apellidos>Cueva</apellidos>
+    <nomprod>lapicero</nomprod>
+    <cantidad>4</cantidad>
+    <fecha>2020-01-15 15:04:20</fecha>
+    <precio>16</precio>
+  </reporte>
   <reporte>
     <nombres>Christian</nombres>
     <apellidos>Atencio</apellidos>
@@ -7,5 +31,37 @@
     <cantidad>3</cantidad>
     <fecha>2020-10-11 00:00:00</fecha>
     <precio>3</precio>
+  </reporte>
+  <reporte>
+    <nombres>Christian</nombres>
+    <apellidos>Atencio</apellidos>
+    <nomprod>lapicero</nomprod>
+    <cantidad>2</cantidad>
+    <fecha>2020-02-17 13:05:20</fecha>
+    <precio>8</precio>
+  </reporte>
+  <reporte>
+    <nombres>Carlos</nombres>
+    <apellidos>Mayta</apellidos>
+    <nomprod>hojas</nomprod>
+    <cantidad>10</cantidad>
+    <fecha>2020-12-07 18:21:50</fecha>
+    <precio>1</precio>
+  </reporte>
+  <reporte>
+    <nombres>Jorge</nombres>
+    <apellidos>Tello</apellidos>
+    <nomprod>tajador</nomprod>
+    <cantidad>5</cantidad>
+    <fecha>2020-02-10 11:25:50</fecha>
+    <precio>5</precio>
+  </reporte>
+  <reporte>
+    <nombres>Maria</nombres>
+    <apellidos>Ponce</apellidos>
+    <nomprod>lapiz</nomprod>
+    <cantidad>3</cantidad>
+    <fecha>2020-04-08 23:21:25</fecha>
+    <precio>9</precio>
   </reporte>
 </tienda>
